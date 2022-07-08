@@ -12,3 +12,24 @@ public class Pattern
 		}
 	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//By PRN30
